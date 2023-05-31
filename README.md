@@ -8,6 +8,6 @@ Project for Software Engineering Lab: JU UG-II IT 2025.
 
 - Manosrija Nasrin - [manosrija-nasrin](https://www.github.com/manosrija-nasrin)
 - Arijit Saha
-- Somoprovo Bhattacharjee
+- Somoprovo Bhattacharjee - [Thezone1](https://github.com/Thezone-1)
 - Ayantik Bhaumik
 - Aryan Chowdhury
