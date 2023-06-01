@@ -1,0 +1,4 @@
+|	Date		|	Type		|		Amount					|	Account		|	Balance		|
+|	23.05.2023  |  Withdrawal	|		5000.00             	|	admin	    |	20000.00	|
+|	23.05.2023	|	 Deposit	|	    1000.00         		| 	user1   	|	21000.00	|
+|	24.05.2023	|	 Deposit	|	    1000.00            		| 	user2   	|	22000.00	|
