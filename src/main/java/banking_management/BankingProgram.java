@@ -32,7 +32,11 @@ public class BankingProgram {
                 case 2:
                     System.out.print("Enter amount to withdraw: Rs. ");
                     double withdrawAmount = scanner.nextDouble();
-                    account.withdraw(withdrawAmount);
+                    try {
+                        account.withdraw(withdrawAmount);
+                    } catch(IllegalArgumentException iae) {
+                        System.out.println(iae.getMessage());
+                    }
                     break;
                 case 3:
                     account.checkBalance();
