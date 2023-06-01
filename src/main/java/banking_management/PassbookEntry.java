@@ -28,7 +28,7 @@ public class PassbookEntry {
 	}
 
 	private void writeToPassbook(String txnEntry) throws IOException {
-		List<String> headersList = Arrays.asList("Timestamp", "Username", "Transaction Type", "Amount", "Balance");
+		List<String> headersList = Arrays.asList("Timestamp", "User ID", "Transaction Type", "Amount", "Balance");
 		List<List<String>> rowsList = Arrays.asList(entry);
 		TableGenerator tableGenerator = new TableGenerator();
 		if (file.exists()) {
